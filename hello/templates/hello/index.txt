@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <h1>Заголовок</h1>
+    <link rel="stylesheet" href="Style.css">
+</head>
+<body>
+    <h1>Заголовок</h1>
+    <h2>Заголовок</h2>
+    <h3>Заголовок</h3>
+    <button> Ok </button>
+</body>
+</html>
